@@ -1,6 +1,5 @@
 import React from 'react';
 import './style.css'; // Make sure your styles are in this file
-import { Link } from 'react-router-dom';
 
 function ViewAllPackages() {
   return (

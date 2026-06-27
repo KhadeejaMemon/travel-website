@@ -12,43 +12,43 @@ function Home() {
     <div className="main">
       <div className="main-1">
         <div className="text-1">
-          <a href="">
+          <a href="#">
             <i className="fa-solid fa-phone"></i> +01(8765)87654
           </a>
         </div>
         <div className="text-2">
-          <a href="">
+          <a href="#">
             <i className="fa-solid fa-envelope"></i> company@email.com
           </a>
         </div>
         <div className="text-3">
-          <a href="">
+          <a href="#">
             <i className="fa-solid fa-location-dot"></i> 3146 Koontz Lane, California
           </a>
         </div>
         <div className="text-4">
-          <a href="">
+          <a href="#">
             <i className="fa-brands fa-facebook"></i>
           </a>
         </div>
         <div className="text-5">
-          <a href="">
+          <a href="#">
             <i className="fa-brands fa-twitter"></i>
           </a>
         </div>
         <div className="text-6">
-          <a href="">
+          <a href="#">
             <i className="fa-brands fa-instagram"></i>
           </a>
         </div>
         <div className="text-7">
-          <a href="">
+          <a href="#">
             <i className="fa-brands fa-linkedin"></i>
           </a>
         </div>
         <div className="vl"></div>
         <div className="text-8">
-          <a href="">
+          <a href="#">
             <i className="fa-solid fa-magnifying-glass"></i>
           </a>
         </div>
@@ -59,7 +59,7 @@ function Home() {
 
       <div className="main-2">
         <div className="text-9">
-          <a href=""> <i className="fa-solid fa-ship"></i> Travele </a>
+          <a href="#"> <i className="fa-solid fa-ship"></i> Travele </a>
         </div>
         <div className="text-10">
           <nav>
