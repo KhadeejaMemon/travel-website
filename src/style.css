@@ -1,0 +1,937 @@
+
+.main{
+    background-image: url('./Images/banner.jpg');
+    width: 100%;
+    height: 900px;
+}
+
+
+.main-1{
+display: flex;
+}
+
+.text-1{
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+.text-1 a,.text-2 a,.text-3 a,.text-4 a,.text-5 a,.text-6 a,.text-7 a,.text-8 a{
+    text-decoration: none;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text-1 a:hover,.text-2 a:hover,.text-3 a:hover,.text-4 a:hover,.text-5 a:hover,.text-6 a:hover,.text-7 a:hover,.text-8 a:hover{
+     color: lightblue;
+}
+
+.text-2{
+    padding-top: 20px;
+    padding-left: 35px;
+}
+
+.text-3{
+    padding-top: 20px;
+    padding-left: 45px;
+}
+
+.text-4{
+    padding-top: 20px;
+    padding-left: 200px;
+}
+
+
+.text-5,.text-6,.text-7{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+
+.text-8{
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+
+.vl {
+    border-left: 0.5px solid white;
+    height: 50px;
+    margin-left: 20px;
+  }
+
+  
+
+  .main-2{
+    display: flex;
+    padding-top: 20px;
+  }
+
+  .text-9{
+padding-left: 40px;
+  }
+
+  .text-9 a{
+text-decoration: none;
+color: white;
+font-size: 50px;
+font-weight: bold;
+  }
+
+  .text-9 a:hover{
+    color: lightyellow;
+  }
+
+  .text-10{
+padding-top: 10px;
+ font-size: larger; 
+align-items: center;
+  }
+
+ .text-10 nav{
+    display: flex;
+     gap: 25px; 
+list-style-type: none;
+padding-left: 120px;
+align-items: center;
+  }
+
+  .text-10 a{
+text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+  }
+
+  .text-10 a:hover{
+    color: tomato;
+  } 
+
+  
+  .btn-1{
+    width: 120px;
+    height: 40px;
+    border: none;
+    outline: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color:tomato;
+    color: white;
+  }
+
+  .btn-1:hover,.btn-2:hover,.btn-3:hover,.btn-4:hover,.btn-9:hover{
+    background-color:dodgerblue;
+  }
+
+.btn-9{
+  width: 120px;
+    height: 40px;
+  border: none;
+  outline: none;
+  text-transform: uppercase;
+  font-size: 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color:tomato;
+  color: white;
+}
+  .main-3{
+    display: flex;
+ gap: 200px;
+ padding-top: 90px;
+  }
+
+  .text-11 h3{
+    color: tomato;
+    padding-left: 40px;
+  }
+
+  .text-12{
+   margin-right: 20px;
+  }
+
+  .form{
+    background-color:royalblue;
+    padding-left: 40px;
+    padding-top: 50px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+  }
+
+
+
+  .name{
+text-transform: uppercase;
+color: white;
+padding-left: 10px;
+  }
+
+  .box{
+    padding: 12px;
+    width: 250px;
+    margin: 10px;
+    text-transform: uppercase;
+  }
+
+  .btn-2{
+    background-color:tomato;
+    color: white;
+    padding: 12px;
+    width: 280px;
+    margin: 10px;
+    text-transform: uppercase;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  cursor: pointer;
+  }
+
+  .text-13{
+    color: white;
+    text-transform: uppercase;
+    font-size: 70px;
+    padding-left: 40px;
+  }
+
+  .text-14{
+    color: white;
+    text-transform: uppercase;
+    font-size: 70px;
+    padding-left: 40px;
+  }
+
+  .text-15{
+    padding-left: 40px;
+    color: white;
+    font-size: 30px;
+padding-top: 20px;
+  }
+
+  .text-16{
+    color: white;
+    padding-left: 40px;
+    padding-top: 30px;
+  }
+
+  .main-4{
+    display: flex;
+    gap: 20px;
+    padding-left: 200px;
+    padding-top: 50px;
+  }
+  
+.main-4 button a{
+  text-decoration: none;
+  color: white;
+}
+
+.main-4 button a:hover{
+  color: blue;
+}
+
+  .btn-3{
+    background-color: tomato;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    width: 150px;
+    width: 150px;
+    height: 40px;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+
+  
+  .btn-4{
+    text-transform: uppercase;
+    background-color: royalblue;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+  }
+
+  .text-17{
+text-transform: uppercase;
+color: tomato;
+text-align: center;
+padding-top: 80px;
+font-size: 15px;
+  }
+
+  .text-18{
+text-align: center;
+text-transform: uppercase;
+color: gray
+;
+  }
+
+  .text-19{
+color:cornflowerblue;
+text-align: center;
+font-size: 0px;
+  }
+
+
+  .main-5{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+      margin: 50px 0;  
+
+  }
+
+  .card{
+   width: 20%;
+    margin: 15px;
+    box-sizing: border-box;
+    float: left;
+    padding-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color:cornsilk;
+  }
+
+  .card-content h2{
+color: darkblue;
+font-size: 15px;
+  }
+
+  .card-content h3{
+color: blue;
+font-size: 10px;
+  }
+ 
+
+
+.main-7{
+display: flex;
+}
+
+.text-20{
+  padding-left: 40px;
+  padding-top: 100px;
+}
+
+.text-20 img{
+  width: 80%;
+}
+
+.main-8{
+  padding-top: 90px;
+}
+
+.text-21{
+  text-transform: uppercase;
+  color: tomato;
+  font-size: 15px;
+}
+
+.text-22{
+  color: midnightblue;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+
+.text-23{
+  color: midnightblue;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+
+.text-24{
+  color: midnightblue;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+.text-25{
+  color:cornflowerblue;
+
+font-size: 25px;
+}
+
+.text-26 p{
+  font-size: 20px;
+}
+
+.main-9{
+  display: flex;
+  
+}
+
+.text-27{
+  color: white;
+  background-color: tomato;
+   text-align: center; 
+  padding-top: 20px;
+  padding-bottom: 30px;
+  margin-top: 30px;
+  width: 20%;
+  height: 40px;
+  font-size: 40px;
+}
+
+.text-28{
+padding-left: 20px;
+}
+
+.text-28 h3{
+  color: blueviolet;
+  text-transform: uppercase;
+}
+
+.text-28 p{
+  text-transform: uppercase;
+}
+
+.main-10 {
+  display: flex;       
+  justify-content: space-between; 
+  align-items: center;
+  padding-right: 60px;  
+}
+
+.main-10 img {
+  width: 150px; 
+  height: auto;  
+}
+
+
+
+.main-11{
+background-color:whitesmoke;
+padding-top: 10px;
+padding-bottom: 25px;
+}
+
+.text-29{
+  text-transform: uppercase;
+  color: tomato;
+  text-align: center;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin: bottom 8px;
+    }
+  
+    .text-30{
+  text-align: center;
+  font-size: 28px;
+  font-weight:bold;
+  text-transform: uppercase;
+  color: midnightblue
+  ;
+    }
+  
+    .text-31{
+  color:cornflowerblue;
+  text-align: center;
+  font-size: 24px;
+  margin-top: 10px;
+    }
+
+.container{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+ 
+.feature.tour {
+  padding: 50px 0;
+  background-color: #f4f4f4;
+}
+
+.feature.tour h2 {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.card { 
+  border: none;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  color: #333;
+  font-weight: 600;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.price {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #d9534f;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.col-md-4 {
+  justify-content: space-between;
+}
+
+
+.text-center{
+  text-align: center;
+  font-size: 40px;
+  color: tomato;
+}
+
+.main-12{
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+
+.main-12 button a{
+  text-decoration: none;
+  color: white;
+}
+
+.main-12 button a:hover{
+  color: blue;
+}
+ 
+.btn-6{
+  background-color: tomato;
+  color: white;
+  text-align: center;
+  border: none;
+  outline: none;
+  width: 200px;
+  height: 60px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.main-13{
+  padding-top: 80px;
+  padding-bottom: 25px;
+  }
+
+.text-32{
+  text-transform: uppercase;
+  color: tomato;
+  text-align: center;
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin: bottom 8px;
+    }
+  
+    .text-33{
+  text-align: center;
+  font-size: 35px;
+  font-weight:bold;
+  text-transform: uppercase;
+  color: black;
+  ;
+    }
+  
+    .text-34{
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 10px;
+    }
+
+    
+    .main-14{
+      display: flex;
+      padding-left: 100px;
+    }
+  .background-1{
+      background-image: url('./Images/Backg-1.jpg.jpg');
+      background-size: cover;
+      width: 100%;
+      height: 600px;
+      padding: auto;
+    }
+    .logo{
+      color: white;
+      font-size: 100px;
+      text-align: center;
+    }
+
+    .logo-content h3{
+      color: white;
+      text-transform: uppercase;
+      font-size: 13px;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .logo-content p{
+      color: white;
+      text-transform: uppercase;
+      font-size: 10px;
+    }
+
+    .text-35{
+padding-left: 30px;
+    }
+
+    .text-36{
+padding-left: 80px;
+    }
+
+    .text-37{
+      padding-left: 80px;
+    }
+          .text-38{
+            padding-left: 80px;
+        }
+
+      .text-39{
+         padding-left: 80px;     
+               }
+  
+       .text-40{
+       padding-left: 80px;
+          }
+
+           .vel{
+            border-left: 0.5px solid white;
+  height: 160px;
+  margin-left: 25px;
+          } 
+
+   
+  .text-41{
+text-align: center;
+text-transform: uppercase;
+color: tomato;
+padding-top: 100px;
+  }
+
+  .text-42{
+    text-align: center;
+    text-transform: uppercase;
+    color:darkslateblue;
+    font-size: 50px;
+  }
+
+     .text-43{
+    color: cornflowerblue;
+       text-align: center;
+ 
+          }
+
+         .background-3{
+          background-image: url('./Images/background2.jpg');
+          width: 90%;
+          height: 500px;
+         margin-left: 70px;
+         margin-right: 70px;
+        } 
+
+  .text-44{
+text-transform: uppercase;
+text-align: center;
+padding-top: 150px;
+font-size: 20px;
+color:white;
+  }
+
+  .text-45{
+text-align: center;
+color:white;
+padding-top: 20px;
+  }
+
+
+
+  .btn-7{
+text-transform: uppercase;
+background-color: tomato;
+color: white;
+text-align: center;
+border: none;
+outline: none;
+width: 130px;
+height: 50px;
+text-transform: uppercase;
+cursor: pointer;
+  }
+
+  .btn-7:hover{
+    color: lightblue;
+  }
+
+  .text-46{
+    text-align: center;
+    padding-top: 40px;
+  }
+
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+  }
+
+
+  .background-5{
+     background-image: url('./Images/footer44.jpg'); 
+    width: 100%;
+    height: 700px;
+    margin-top: 100px;
+    display: flex;
+  }
+  
+  .main-16{
+   display: flex;
+   padding-left:30px; 
+   padding-top: 50px;
+  }
+  
+  
+  .promo-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  
+  
+  .promo-left {
+    flex: 1;
+    min-width: 300px;
+  }
+  
+  .promo-left h5 {
+    color: orangered;
+    padding-left: 30px;
+  }
+  
+  .promo-left h2 {
+    font-size: 40px;
+    padding-left: 30px;
+    color: white;
+  }
+  
+  .promo-left p {
+    font-size: 16px;
+    margin-top: 10px;
+    padding-left: 30px;
+    color: white;
+  }
+  
+  .promo-left .description {
+    margin-top: 20px;
+    font-size: 14px;
+  }
+  
+  .signup-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+    padding-left: 30px;
+  }
+  
+  .signup-form input[type="email"] {
+    flex: 1;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+  }
+  
+  .signup-form input[type="submit"] {
+    background: #ff5733;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  
+  .circle-container {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    gap: 30px;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  
+  .circle-box {
+    text-align: center;
+    margin: 20px;
+color: white;
+   
+  }
+  
+  .circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+     background: conic-gradient(#00ffff 0% 85%, rgba(255, 255, 255, 0.1) 85% 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 auto;
+  }
+  
+  
+  
+  
+  .background-6{
+    background-image: url('./Images/footer55.jpg');
+    width: 100%;
+    height: 500px;
+    margin-top: 100px;
+    display: flex;
+  }
+  
+  .main-17{
+    display: block;
+    padding-left:30px; 
+    padding-top: 50px;
+   }
+  
+  .text-47{
+    color:white;
+    font-size: 50px;
+    justify-self: start;
+    padding-left: 30px;
+  }
+  
+  .text-48{
+    color:white;
+    font-size:30px;
+    padding-left: 30px;
+  }
+  
+  .button-2.btn-7{
+    text-transform: uppercase;
+    width: 150px;
+    height: 40px;
+    border: none;
+    outline: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color:tomato;
+    color: white;
+    padding-left: 30px;
+    justify-content: center;
+  }
+  
+  .background-6 {
+    padding-top: 20px;
+  }
+  
+  h1.text-47, p.text-48, .button-2 {
+    margin-bottom: 20px; 
+  }
+  
+  
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer {
+    background-color: #222;
+    color: white;
+    padding: 40px 20px;
+  }
+  
+  .footer h2 {
+    margin-top: 0;
+    font-size: 24px;
+    border-bottom: 2px solid #555;
+    padding-bottom: 10px;
+  }
+  
+  .reviews {
+    margin-top: 20px;
+  }
+  
+  .review {
+    background-color: #333;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+  }
+  
+  .review p {
+    margin: 0 0 10px;
+  }
+  
+  .review .user {
+    font-weight: bold;
+    font-size: 14px;
+    color: #ccc;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+    color: #aaa;
+  }
+
+
+  .text-46{
+    text-align: center;
+    padding-top: 40px;
+  }
+
+                                                        
+.text-46 button a{
+  text-decoration: none;
+  color: white;
+}
+
+.text-46 button a:hover{
+  color: blue;
+}
+
+
+
+
+
